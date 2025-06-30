@@ -51,7 +51,7 @@ R² Score: 0.75
 1. Clone or download the repository  
 ```
 
-git clone [https://github.com/YOUR\_USERNAME/ghg-emissions-modeling.git](https://github.com/YOUR_USERNAME/ghg-emissions-modeling.git)
+git clone [https://github.com/RishiMukadam/GHG_Emissions_Modeling.git]
 
 ```
 
